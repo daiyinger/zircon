@@ -1,3 +1,0 @@
-#define TLS_ABOVE_TP
-#define ABI_TCBHEAD_SIZE 16
-#define DTP_OFFSET 0
